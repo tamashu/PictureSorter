@@ -1,0 +1,3 @@
+# PictureSorter
+Pythonを用いた写真整理用アプリ
+picture_sorter_GUI.pyがGUIで操作できるアプリとなります
